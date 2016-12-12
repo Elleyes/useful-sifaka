@@ -36,4 +36,4 @@ Produce and understand intermediate JavaScript algorithms
 
 ## Stretch Specs
 
--[ ] TBD
+- [ ] TBD
