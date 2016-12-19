@@ -4,7 +4,7 @@
 
 ## Project Objectives
 
-Produce and understand* intermediate JavaScript algorithms
+Produce and understand intermediate JavaScript algorithms
 
 ### RESOURCES
 
@@ -13,7 +13,7 @@ Freecodecamp Intermediate Algorithm Scripting Challenges
 ## Foundational Specs
 
 - [X] Sum All Numbers in a Range
-- [X] Diff Two Arrays Incomplete
+- [X] Diff Two Arrays
 - [X] Roman Numeral Converter
 - [X] Wherefore art thou
 - [X] Search and Replace
