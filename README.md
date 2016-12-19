@@ -28,10 +28,10 @@ Freecodecamp Intermediate Algorithm Scripting Challenges
 - [X] Sum All Primes
 - [X] Smallest Common Multiple
 - [X] Finders Keepers
-- [ ] Drop it
-- [ ] Steamroller
-- [ ] Binary Agents
-- [ ] Everything Be True
-- [ ] Arguments Optional
+- [X] Drop it
+- [X] Steamroller
+- [X] Binary Agents
+- [X] Everything Be True
+- [X] Arguments Optional
 
 
