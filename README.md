@@ -8,32 +8,30 @@ Produce and understand intermediate JavaScript algorithms
 
 ### RESOURCES
 
-- [Freecodecamp](https://www.freecodecamp.com/map)
+Freecodecamp Intermediate Algorithm Scripting Challenges
 
 ## Foundational Specs
 
-- [ ] Sum All Numbers in a Range Incomplete
-- [ ] Diff Two Arrays Incomplete
-- [ ] Roman Numeral Converter Incomplete
-- [ ] Wherefore art thou Incomplete
-- [ ] Search and Replace Incomplete
-- [ ] Pig Latin Incomplete
-- [ ] DNA Pairing Incomplete
-- [ ] Missing letters Incomplete
-- [ ] Boo who Incomplete
-- [ ] Sorted Union Incomplete
-- [ ] Convert HTML Entities Incomplete
-- [ ] Spinal Tap Case Incomplete
-- [ ] Sum All Odd Fibonacci Numbers Incomplete
-- [ ] Sum All Primes Incomplete
-- [ ] Smallest Common Multiple Incomplete
-- [ ] Finders Keepers Incomplete
-- [ ] Drop it Incomplete
-- [ ] Steamroller Incomplete
-- [ ] Binary Agents Incomplete
-- [ ] Everything Be True Incomplete
-- [ ] Arguments Optional Incomplete
+- [X] Sum All Numbers in a Range
+- [X] Diff Two Arrays
+- [X] Roman Numeral Converter
+- [X] Wherefore art thou
+- [X] Search and Replace
+- [X] Pig Latin
+- [X] DNA Pairing
+- [X] Missing letters
+- [X] Boo who
+- [X] Sorted Union
+- [X] Convert HTML Entities
+- [X] Spinal Tap Case
+- [X] Sum All Odd Fibonacci Numbers
+- [X] Sum All Primes
+- [X] Smallest Common Multiple
+- [X] Finders Keepers
+- [ ] Drop it
+- [ ] Steamroller
+- [ ] Binary Agents
+- [ ] Everything Be True
+- [ ] Arguments Optional
 
-## Stretch Specs
 
-- [ ] TBD
